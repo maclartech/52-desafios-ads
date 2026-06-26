@@ -11,7 +11,7 @@ int main()
     int quantidades[4] = {0, 0, 0, 0};
     int tamanho = 4;
 
-    printf("===== CAIXA ELETRONICO =====\n");
+    printf("     CAIXA ELETRONICO     \n");
     printf("Digite o valor do saque: ");
     scanf("%d", &valor);
 
